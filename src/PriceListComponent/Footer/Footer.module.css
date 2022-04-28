@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+
+.footer{
+    height: 15rem;
+    
+    /* display:flex; */
+    /* flex-direction: column ; */
+    justify-content: center;
+    width: 100vw;
+    background-color: rgb(15, 23, 36);
+   position:absolute;
+}
+
+
+ul{
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    /* border: 3px solid blueviolet; */
+   
+}
+li{
+    list-style-type: none;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    font-family: poppins,sans-serif;
+} 
+
+ 
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    font-family: raleway,sans-serif;
+}
+.lastcontent{
+    /* display: flex; */
+   
+    text-align: center;
+    justify-content:center;
+    align-items: center;
+    margin-top:37px;
+}  
+/* .lastcontent h2{
+    font-family: poppins,sans-serif;
+    font-weight: 600;
+    font-size:34px;
+    line-height: 51px;
+    color:white;
+} */
+
+.lastcontent p{
+    font-family: raleway,sans-serif;
+    font-weight: 400;
+    font-size:14px;
+    line-height: 16px;
+    color:white;
+} 
+.colzicon{
+   
+    /* width:5rem;
+    border:1rem solid black; */
+}
+.colzicon i{
+    /* display: flex; */
+    margin: 0.4rem;
+    justify-content: space-around;
+   
+}
+.colzicon>a{
+    border-radius: 0.3rem solid white;
+}

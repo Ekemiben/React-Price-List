@@ -1,0 +1,24 @@
+
+
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    /* background-image: url("/src/Assets/150-1505858_blue-line-curve-png.png"); */
+    /* background-repeat: no-repeat;
+    background-image: cover;
+    width: 100vw; */
+}
+.maincontainer{
+    /* width: 100vw;
+    height: 100vh;
+    position:absolute;
+    display: flex; */
+
+    position: absolute;
+    width:100vw;
+    /* height: 5vh; */
+    /* background-color: rgb(15, 23, 36); */
+} 
+

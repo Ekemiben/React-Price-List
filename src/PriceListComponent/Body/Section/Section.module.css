@@ -1,0 +1,26 @@
+.maincontainer{
+    /* display: flex; */
+    justify-content: center;
+    margin:2rem;
+    
+    background: #203040;
+    
+}
+.message{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color:white;
+    /* color:black; */
+}
+ .messagetwo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    font-weight: 200;
+    color:white;
+    /* color:black; */
+}
+.myIcon{
+
+    /* border:1rem solid red; */
+}
