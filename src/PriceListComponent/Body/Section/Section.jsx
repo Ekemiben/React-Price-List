@@ -10,7 +10,7 @@ const Section = () => {
         <div className={SectionStyle.maincontainer}>
             <div className={SectionStyle.myIcon}></div>
             <div className={SectionStyle.message}>
-            <p>Get Your Top-notch website and IT Support from Our Pool of Software Engineers </p>
+            <p>Get Your Top-notch Website and IT Support From Our Pool of Software Engineers. </p>
             </div>
             {/* <div className={SectionStyle.messagetwo}>
             <p>Select from our bundle to save you cost and time</p>
