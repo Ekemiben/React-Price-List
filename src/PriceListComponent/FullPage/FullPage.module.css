@@ -15,10 +15,13 @@ body{
     height: 100vh;
     position:absolute;
     display: flex; */
+    /* display: flex; */
+    /* justify-content: center; */
 
     position: absolute;
     width:100vw;
-    /* height: 5vh; */
+    
+    /* border:1rem solid red; */
     /* background-color: rgb(15, 23, 36); */
 } 
 
