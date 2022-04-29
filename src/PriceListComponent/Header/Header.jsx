@@ -10,7 +10,7 @@ const Header = () => {
                     <a className='brand 'href = "/">Ekemiben</a>
                 </div>
                 <div className='contact'>
-                    <a href="https://ekemiben.github.io/Ekemini-Ben/" className='about'>About</a><br></br>
+                    <a href="https://ekemiben.github.io/Ekemini-Ben/" className='about' target='-blank'>About</a><br></br>
                     <a href = "#buttom">Contact Us</a>
                 </div>
             </header>

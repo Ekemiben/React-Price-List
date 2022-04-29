@@ -1,9 +1,10 @@
 import React from "react";
 import Section from "../Body/Section/Section";
+import { Link } from "react-router-dom";
 import MainBackground from "./Cards.module.css";
-// import Fade from 'react-reveal/Rotate'
+
 import Fade from 'react-reveal/Spin'
-import Animatecover from 'react-reveal/Zoom'
+
 import Animatleft from 'react-reveal/Fade'
 
 
@@ -27,7 +28,7 @@ const Cards = () => {
                         <p>1 Month Technical Support</p><br></br>
                         <p>₦70,000</p>
                         <p className={MainBackground.grey}>
-                        <div className={MainBackground.button}> <a href="#" >Sign Up</a></div>
+                        <div className={MainBackground.button}> <Link to="/" >Sign Up</Link></div>
                         </p>
                     </h3>
                 </div>
@@ -47,7 +48,7 @@ const Cards = () => {
                         <p>₦140,000</p>
                         <p className={MainBackground.grey}>
                             {/* <a href="#" className={MainBackground.button}>Sign Up</a> */}
-                            <div className={MainBackground.button}> <a href="#" >Sign Up</a></div>
+                            <div className={MainBackground.button}> <Link to="/" >Sign Up</Link></div>
                         </p>
                     </h3>
                 </div>
@@ -65,7 +66,7 @@ const Cards = () => {
                         <br></br>
                         <p><h3>From ₦430,000.00</h3></p>
                         <p className={MainBackground.grey}>
-                        <div className={MainBackground.button}> <a href="#" >Sign Up</a></div>
+                        <div className={MainBackground.button}> <Link to="/" >Sign Up</Link></div>
                         </p>
                     </h3>
                 </div>
