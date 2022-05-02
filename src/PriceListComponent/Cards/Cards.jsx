@@ -28,7 +28,7 @@ const Cards = () => {
                         <p>1 Month Technical Support</p><br></br>
                         <p>₦70,000</p>
                         <p className={MainBackground.grey}>
-                        <div className={MainBackground.button}> <Link to="/" >Sign Up</Link></div>
+                        <div className={MainBackground.button}> <Link to="/Basic" >Sign Up</Link></div>
                         </p>
                     </h3>
                 </div>

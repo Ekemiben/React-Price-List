@@ -5,6 +5,7 @@ import Bgimage from "../../Assets/image4.png";
 import Card from "../Cards/Cards"
 
 import Footer from "../Footer/Footer"
+import Condition from '../Body/Section/Condition';
 
 const FullPage = () => {
     return (
@@ -12,6 +13,7 @@ const FullPage = () => {
         <div className={Stylling.maincontainer}>
            
             <Card />
+            <Condition />
             
             <Footer />
         </div>

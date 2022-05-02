@@ -27,9 +27,9 @@ const Section = () => {
                                 
                                 steps={[
                                     "Our Customized Website Packages Just For You 🌐 ", 3000,
-                                    "Select from our bundle to save you cost and time 🚀 ", 3000,
-                                    "Website is the key 🤏" , 2000,
-                                    "Contact Us Today For Your Business Website and IT support 🖐️", 2500,
+                                    "Select From Our Bundle to Save You Cost and Time 🚀 ", 3000,
+                                    "Website is The Key 🤏" , 2000,
+                                    "Contact Us Today For Your Business Website, E-Commerce Website, IT Support, And Other Customize Apps.  🖐️", 2500,
                                     " Your Problems Can Be Solved Programmatically 💻",
                                     2000
                                 ]}

@@ -20,7 +20,9 @@
     color:white;
     /* color:black; */
 }
-.myIcon{
-
-    /* border:1rem solid red; */
+/* Conditional component */
+.conditions{
+    position: absolute;
+    margin:3rem;
+    border:0.3rem dashed darkolivegreen;
 }
